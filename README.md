@@ -188,9 +188,9 @@
   Voilà donc pour l'historique des langages de programations !
 </p>
 <h2>Galerie</h2>
-<img href="https://kinsta.com/wp-content/uploads/2021/03/the-most-popular-programming-languages-to-learn.png">
-<img href="https://miro.medium.com/v2/resize:fit:790/1*Eba93CiPHk2T874CiAenTQ.jpeg">
-<img href="https://pixees.fr/wp-content/uploads/2015/11/david_roche_dr_04-300x205.png">
+<img src="https://kinsta.com/wp-content/uploads/2021/03/the-most-popular-programming-languages-to-learn.png" width="300">
+<img src="https://miro.medium.com/v2/resize:fit:790/1*Eba93CiPHk2T874CiAenTQ.jpeg" width="300">
+<img src="https://pixees.fr/wp-content/uploads/2015/11/david_roche_dr_04-300x205.png" width="300">
         </section>
         <section id="os">
             <h2>Les systèmes d'exploitation</h2>
