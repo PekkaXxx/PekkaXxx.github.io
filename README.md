@@ -159,39 +159,38 @@
         <section id="languages">
             <h2>Les langages de programmation</h2>
 <p>
-  L’apparition des langages de programmation constitue une étape essentielle dans l’histoire de l’informatique. Dès le début des années 1950,
-  les chercheurs cherchent à se libérer des contraintes du langage machine, trop complexe à manier. Le tout premier langage à émerger est l’assembleur,
-  qui reste proche du langage binaire, mais permet déjà d’écrire des instructions sous une forme un peu plus lisible pour l’humain.
-</p>
+  L'aventure débute en 1951 avec la création du premier compilateur, le <strong>A-0 System</strong> (Atitmetic Language version 0) créer par Grace Hopper. En réalité A-0 était plus un "éditeur de lien" qu'un compilateur.
+ </p>
 
 <p>
-  En 1957, le langage <strong>Fortran</strong> (FORmula TRANslation) est développé par IBM. Il est spécialement conçu pour les calculs scientifiques et marque
-  la naissance des langages de haut niveau. Deux ans plus tard, en 1959, c’est <strong>COBOL</strong> qui voit le jour. Ce langage, destiné aux applications de gestion en entreprise,
+  En 1957, le langage <strong>Fortran</strong> (FORmula TRANslation) est développé par IBM. Il est spécialement conçu pour les calculs scientifiques et le calcul numériqur. Trois ans plus tard, en 1960, c’est <strong>COBOL</strong> (COmmon Business Oriented Language) qui voit le jour. Ce langage, destiné aux applications de gestion en entreprise,
   est plus orienté vers le traitement des données que vers les calculs mathématiques.
 </p>
 
 <p>
-  Dans les années 1960, d’autres langages apparaissent pour répondre à des besoins variés. <strong>Lisp</strong>, développé en 1958, devient une référence dans le domaine de l’intelligence artificielle.
-  En 1964, le langage <strong>BASIC</strong> est créé dans un but pédagogique : il est simple à apprendre, ce qui en fait un choix idéal pour les premiers ordinateurs personnels dans les années 1980.
-  À la même époque, le langage <strong>Pascal</strong> est inventé pour enseigner la programmation structurée.
+  En 1964, le langage <strong>BASIC</strong> est créé dans un btu pédagogique : il est simple à apprendre, ce qui en fait un choix idéal pour les premiers ordinateurs personnels. Et pour cause son nom veut littéraletemnt dire "« code d'instruction symbolique multiusage du débutant »"
+  Un peu plus tard en 1970, le langage <strong>Pascal</strong> est inventé, lui aussi conçu pour l'enseignement.
 </p>
 
 <p>
-  L’un des langages les plus influents de l’histoire, le langage <strong>C</strong>, est conçu en 1972. Il est rapide, efficace et permet de développer des systèmes d’exploitation, comme Unix.
-  Ce langage donnera naissance en 1983 à <strong>C++</strong>, une version enrichie qui introduit la programmation orientée objet, très utilisée dans les logiciels complexes.
+  L’un des langages les plus influents de l’histoire, le langage <strong>C</strong>,un langage de bas niveau, est conçu en 1972. Il est rapide, efficace et permet de développer des systèmes d’exploitation, comme Unix.
+  Ce langage donnera d'autre langage dérivés comme en 1985 le <strong>C++</strong>, une version enrichie qui introduit la "programmation orientée objet", très utilisée dans les logiciels complexes. Ou beaucoup plus  tard le C#, un dérivé du C++ lui même un dérivée du C.
 </p>
 
 <p>
-  Dans les années 1990, avec l’émergence d’Internet et des interfaces graphiques, de nouveaux langages apparaissent. <strong>Python</strong>, en 1991, séduit par sa simplicité et sa lisibilité.
-  Il devient incontournable dans les domaines de la science, de la data, de l’intelligence artificielle ou encore du développement web. En 1995, <strong>Java</strong> est créé : c’est un langage portable,
-  qui peut fonctionner sur tous les systèmes d’exploitation, et qui est encore très utilisé dans les grandes entreprises. La même année, <strong>JavaScript</strong> est conçu pour rendre les pages web interactives :
-  il devient un pilier du développement web.
+  Dans les années 1990, avec l’émergence d’Internet, de nouveaux langages apparaissent. <strong>Python</strong>, en 1991, quis e démarque par sa simplicité et sa lisibilité.
+  Il devient incontournable dans les domaines de la science et de l’intelligence artificielle. En 1995, <strong>Java</strong> est créé, un autre language de programmation de haut niveau qui est tout aussi facile a utiliser que python. Un an plus tard en 1996, <strong>JavaScript</strong> est conçu pour rendre les pages web interactives :
+  il devient un pilier du développement web au coté du HTML, un langage de balisage et le CSS.
 </p>
 
 <p>
-  Au XXIe siècle, de nouveaux langages émergent pour répondre à des besoins modernes, comme <strong>C#</strong> chez Microsoft, <strong>Go</strong> chez Google, ou encore <strong>Swift</strong> chez Apple.
-  L’histoire des langages de programmation est donc marquée par une volonté constante de rendre la machine plus accessible, plus puissante et plus fiable.
+  Au XXIe siècle, de nouveaux langages émergent pour répondre à des besoins modernes, comme <strong>C#</strong> chez Microsoft que nous avons déja évoqué ou encore <strong>Swift</strong> innitié par Apple.
+  Voilà donc pour l'historique des langages de programations !
 </p>
+<h2>Galerie</h2>
+<img href="https://kinsta.com/wp-content/uploads/2021/03/the-most-popular-programming-languages-to-learn.png">
+<img href="https://miro.medium.com/v2/resize:fit:790/1*Eba93CiPHk2T874CiAenTQ.jpeg">
+<img href="https://pixees.fr/wp-content/uploads/2015/11/david_roche_dr_04-300x205.png">
         </section>
         <section id="os">
             <h2>Les systèmes d'exploitation</h2>
